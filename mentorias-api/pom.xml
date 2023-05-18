@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codementoring</groupId>
-	<artifactId>ebook-api</artifactId>
+	<artifactId>mentorias-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ebook-api</name>
 	<description>ebook-api</description>
